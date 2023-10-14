@@ -1,0 +1,103 @@
+.sec1{
+    background-color: aliceblue;
+}
+.inbox1{
+    height: 100px;
+}
+.sec2{
+    background-color: grey;
+    background-image:url(shutterstock_757863334-1024x683.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+text-align: center;
+  
+}
+.inbox2{
+    height: 500px;
+}
+.tai{
+    font-size: 100px;
+    color: azure;
+}
+.sec3{
+    background-color: beige;
+    text-align: center;
+
+}
+.inbox3{
+    height: 150px;
+}
+.made{
+    font-size: 50px;
+    color: darkgray;
+}
+.sec4{
+    background-color: rgb(117, 168, 168);
+    min-height: 200PX;
+}
+.sec5{
+    background-color:black;
+    text-align: center;
+}
+.mon{
+    color: aliceblue;
+    text-align: center;
+}
+.vis{
+    color: aliceblue;
+    font-size: 60px;
+    text-align: center;
+}
+.book{
+    text-align: center;
+}
+.sec6{ background-color: rgb(220, 226, 231);
+    min-height: 300px;
+    width: 100%;
+
+}
+
+.in{
+    text-align: center;
+}
+.exicute{
+    min-height: 150px;
+    width: 100%;
+}
+.suit{
+    height: 350px;
+    width: 100%;
+
+}
+
+.sec7{
+    background-color: rgb(22, 22, 22);
+    text-align: center;
+}
+.news{
+    font-size: 30px;
+    color: azure;
+}
+.it{
+    font-size: 70px;
+    color: azure;
+}
+.an{
+    color: rgb(14, 15, 15);
+    background-color: rgb(226, 237, 237);
+
+    border: 0px;
+    padding: 5px 20px;
+}
+.see{
+    background-color: aliceblue;
+    padding: 3px 10px;
+}
+
+.sec8{
+    text-align: center;
+    background-color: aliceblue;
+}
+.icons1{
+    size: 50px;
+}
